@@ -1,4 +1,1 @@
-gitblog
-=======
-
-A new repo
+Here's the README of your brand new Push Blog!
